@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Simple dataLayer Push",
-  "categories": ["TAG_MANAGEMENT", "ANALYTICS"],
+"categories": ["TAG_MANAGEMENT", "ANALYTICS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "Custom Template",
