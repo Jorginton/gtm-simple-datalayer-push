@@ -1,0 +1,5 @@
+homepage: "https://www.jorgvandeven.nl/"
+documentation: "https://www.jorgvandeven.nl/google-tag-manager/"
+versions:
+  - sha: 958831f07c1fa84a278aef56e63c0f034080167b
+    changeNotes: Initial release.
